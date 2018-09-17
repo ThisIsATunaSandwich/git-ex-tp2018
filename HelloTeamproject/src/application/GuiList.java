@@ -13,7 +13,7 @@ import javax.swing.event.ListSelectionListener;
 public class GuiList extends JPanel {
 	private static final long serialVersionUID = 1L;
 
-	private String label[] = { "Lennart", "Ajeeth", "Thomas", "Alex" };
+	private String label[] = { "Lennart", "Ajeeth", "Thomas", "Alex", "Joshua", "Chico", "Paul" };
 
 	private JList<String> list;
 
